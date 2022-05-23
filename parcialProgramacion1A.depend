@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1652705818 source:c:\users\usuario\documents\proyectos\parcialprogramacion1a\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1652718503 source:c:\users\usuario\desktop\parcialprogramacion1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
